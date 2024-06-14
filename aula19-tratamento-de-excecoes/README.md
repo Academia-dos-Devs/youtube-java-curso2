@@ -1,18 +1,5 @@
-## Getting Started
+## Descrição
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Nesse vídeo você irá aprender a lidar com aqueles erros (chatos) que podem acontecer durante a execução do seu programa, conhecidos como Exception (exceção). Você entenderá como tratar as exceções usando TRY, CATCH, FINALLY do jeito certo, escolhendo a melhor forma para manipular os runtime error, de forma genérica ou para erros específicos.
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+[Link da aula](https://www.youtube.com/watch?v=BG4kOOfbOjc)
